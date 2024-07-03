@@ -2,7 +2,7 @@
 
 ## Education:
 
-- **MCA - M.Kumarasamy College of Engineering (Pursuing)**
+- **MCA - M.Kumarasamy College of Engineering **
   - Board of Study: Anna University
   - Year of Passing: 2024
 
