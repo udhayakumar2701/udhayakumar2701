@@ -10,18 +10,19 @@
   - **Role:** Software Developer  
   - **Year:** 2024 – Present  
   - **Responsibilities:**  
-    - Working on enterprise-level projects using Java and related technologies.  
+    - Developing and maintaining enterprise-level applications.  
+    - Building standalone applications using Spring Boot.  
+    - Designing and consuming REST APIs.  
     - Writing clean, maintainable, and efficient code.  
-    - Collaborating with team members in Agile/Scrum environment.  
-    - Learning and implementing Spring Boot, REST APIs, and database integration.  
+    - Collaborating with cross-functional teams in Agile/Scrum environment.  
 
 ## 💻 Technical Skills
 - **Languages:** C, Java  
-- **Frameworks:** Spring Boot (beginner), Hibernate (learning)  
-- **Frontend:** HTML, CSS, JavaScript (learning React)  
+- **Frameworks:** Spring Boot, Hibernate, JPA  
+- **Frontend:** HTML, CSS, JavaScript,React  
 - **Databases:** MySQL, PostgreSQL  
 - **Tools:** Git, GitHub, VS Code, Eclipse, IntelliJ IDEA  
-- **Concepts:** OOP, DBMS, REST API, MVC Architecture  
+- **Concepts:** OOP, DBMS, REST API, MVC Architecture, Security (JWT, Authentication & Authorization)  
 
 ## 🚀 Project Experience
 ### Infinity Wheels Website  
